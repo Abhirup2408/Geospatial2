@@ -1,0 +1,14 @@
+pip>=21.3
+pandas
+numpy
+thinc==8.2.5  # Compatible with spacy 3.6.1 and Python 3.10
+rapidfuzz==3.6.1
+pyspellchecker==0.8.1
+streamlit
+transformers==4.37.2
+tokenizers==0.15.1
+spacy==3.7.6  # Use thinc 8.1.8 to avoid version conflicts
+wheel
+setuptools>=58.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl#sha256=ab70aeb6172cde82508f7739f35ebc9918a3d07debeed637403c8f794ba3d3dc
+
